@@ -1,2 +1,2 @@
-# jgdotnet.github.io
-Projects and CV by Jose Galaverna
+# Jose Galaverna
+Journal, Notes, and Projects by Jose Galaverna
