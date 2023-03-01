@@ -23,7 +23,7 @@ reporting solutions. The previous years developing Client/Server and mobile appl
 In 2022  I had the chance to learn two Cloud technologies,
 AWS and Azure, and newer Data Engineering architectures, tools and methodologies.
 
-I am interested in developing in Cloud Data Engineering/Analytics roles.
+I am interested in Data Engineering/Analytics and Cloud Engineering.
 <br><br>
 
 
