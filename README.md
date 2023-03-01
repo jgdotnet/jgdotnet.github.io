@@ -7,8 +7,8 @@ Contact:<br>
 
 My Content:
 - [GitHub](https://github.com/jgdotnet/)
-- [Youtube](https://youtube.com/c/jgdotnet/)
-- [Blogs](https://youtube.com/c/jgdotnet/)
+- [Youtube](https://youtube.com/)
+- [Blogs](https://)
 <br><br>
 
 ### About Me
