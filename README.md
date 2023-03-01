@@ -41,8 +41,8 @@ I am interested in developing in Cloud Data Engineering/Analytics roles.
 <br><br>
 
 **Programmer** @ [Consultmatica S.A.](https://www.consulmatica.com/) _(Jun 1999 to March 2000)_ <br>
-- Analyze, design, develop, and maintain several client/server applications (mainly for Windows & Mobile, some Web).
-- Design, development, and maintenance of reports for operations and management.
+- Develop and maintain client/server applications for Windows.
+- Development and maintenance of reports for several systems, i.e. HR, Payroll, Sales, Accounting.
 <br><br>
 
    
