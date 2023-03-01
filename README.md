@@ -14,13 +14,13 @@ My Content:
 ### About Me
 I have been working in IT for more than 20 years. The last 10 years
 mainly everything related to the development and maintenance of
-reporting solutions. The previous years were to the development of
-Client/Server and mobile applications.
+reporting solutions. The previous years developing Client/Server and mobile applications.
 
-2022 was a great year. I had the chance to learn two Cloud technologies,
-AWS and Azure, and newer Data Engineering architectures, tools and
-methodologies.
+In 2022  I had the chance to learn two Cloud technologies,
+AWS and Azure, and newer Data Engineering architectures, tools and methodologies.
+
 I am interested in developing in Cloud Data Engineering/Analytics roles.
+<br><br>
 
 
 ## Work Experience
@@ -61,7 +61,7 @@ I am interested in developing in Cloud Data Engineering/Analytics roles.
 <br><br>
 
 
-## Skills Areas
+## Key Skills
 
 - Microsoft SQL Server, SQL, DML, DDL, Triggers, Stored Procedures, Functions, and Views
 - Crystal Reports, iNet Clear
