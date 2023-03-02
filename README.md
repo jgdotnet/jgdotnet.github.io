@@ -58,9 +58,9 @@ I am interested in Data Engineering/Analytics and Cloud Engineering.
 
 ## Certifications
 
-2022: AWS Certified Practitioner (December, Active)
-2008: Microsoft Certified Technology Specialist: SQL Server 2005 (Retired/Expired)
-2002: Microsoft Certified Professional, Visual Basic 6 Desktop and Distrubuted (Retired/Expired)
+- 2022: AWS Certified Practitioner (December, Active)
+- 2008: Microsoft Certified Technology Specialist: SQL Server 2005 (Retired/Expired)
+- 2002: Microsoft Certified Professional, Visual Basic 6 Desktop and Distrubuted (Retired/Expired)
 <br><br>
 
 
